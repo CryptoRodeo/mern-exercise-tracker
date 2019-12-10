@@ -1,0 +1,1 @@
+- automatically restarts the node application when files changes in the directory are detected.

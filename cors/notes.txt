@@ -1,0 +1,4 @@
+cors - a package that allows us to do cross origin resource sharing
+- allows ajax requests to skip the same origin policy and access resources from remote hosts.
+
+- an express middleware.
