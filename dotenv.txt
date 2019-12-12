@@ -1,5 +1,0 @@
-- loads environment variables from a dotenv file to a processdotenv file.
-- makes development simpler
-
-- instead of setting environment variables on the dev machine they can be stored in a file.
-

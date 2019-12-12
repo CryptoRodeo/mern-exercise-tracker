@@ -1,3 +1,0 @@
-The way we'll connect the front end to the back end is by making the front end send http requests to the server on the backend.
-
-The package used to do this is axios
